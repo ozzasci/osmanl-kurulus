@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Osmanlı Tarihi Testi</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+        }
+        h2 {
+            color: #555;
+            border-bottom: 2px solid #ccc;
+            padding-bottom: 5px;
+        }
+        .question {
+            margin: 15px 0;
+        }
+        .question p {
+            margin: 5px 0;
+        }
+        .answer {
+            font-weight: bold;
+            color: #0066cc;
+        }
+    </style>
+</head>
+<body>
+    <h1>Osmanlı Tarihi Testi</h1>
+
+    <h2>1. Ünite: Osmanlı Devleti'nin Kuruluşu ve İlk Askeri Faaliyetleri</h2>
+    <div class="question">
+        <p>1. Malazgirt Savaşı'nın (1071) Osmanlı Devleti'nin kurulmasına hangi etkide bulunmuştur?</p>
+        <p class="answer">Malazgirt Savaşı, Anadolu'nun kapılarını Türklere açarak Türkmen beylerinin bölgeye yerleşmesini sağladı.</p>
+    </div>
+    <div class="question">
+        <p>2. Osmanlı Beyliği'nin geleneksel olarak kabul edilen kuruluş tarihi hangi olay ile ilişkilendirilir?</p>
+        <p class="answer">1299'da Osman Bey'in Bilecik'i fethetmesi</p>
+    </div>
+    <div class="question">
+        <p>3. Orhan Bey döneminde fethedilerek başkent yapılan şehir hangisidir?</p>
+        <p class="answer">1326'da fethedilen Bursa</p>
+    </div>
+    <div class="question">
+        <p>4. Pelekanon Savaşı (1329) hangi devlete karşı kazanılmıştır?</p>
+        <p class="answer">Bizans</p>
+    </div>
+    <div class="question">
+        <p>5. Osmanlı Devleti'nin siyasi bir güç haline geldiği savaş hangisidir?</p>
+        <p class="answer">Bapheus Savaşı (1302)</p>
+    </div>
+    <div class="question">
+        <p>6. Osman Bey'in Bizans ile yaptığı ilk büyük savaş hangisidir?</p>
+        <p class="answer">Bapheus Savaşı (1302)</p>
+    </div>
+    <div class="question">
+        <p>7. Osmanlı'nın ilk kadısı kimdir?</p>
+        <p class="answer">Çandarlı Kara Halil (İlk kadı olarak bilinir)</p>
+    </div>
+    <div class="question">
+        <p>8. Osmanlı Devleti'nin ilk başkenti hangi şehirdir?</p>
+        <p class="answer">Söğüt</p>
+    </div>
+    <div class="question">
+        <p>9. Osmanlı Devleti'nde ilk para hangi padişah zamanında basılmıştır?</p>
+        <p class="answer">Orhan Bey</p>
+    </div>
+    <div class="question">
+        <p>10. Osman Bey'den sonra tahta geçen padişah kimdir?</p>
+        <p class="answer">Orhan Bey</p>
+    </div>
+
+    <h2>2. Ünite: Balkanlar'da ve Anadolu'da Osmanlı İlerlemesi</h2>
+    <div class="question">
+        <p>11. Osmanlı Devleti'nin Rumeli'ye geçişini kolaylaştıran olay nedir?</p>
+        <p class="answer">1346'da Orhan Bey'in Bizans İmparatoru VI. Ioannis Kantakuzenos ile ittifak kurması</p>
+    </div>
+    <div class="question">
+        <p>12. Osmanlı Devleti'nin Rumeli'ye geçişini kolaylaştıran olay nedir? (Tekrarlanmış soru)</p>
+        <p class="answer">1346'da Orhan Bey'in Bizans İmparatoru VI. Ioannis Kantakuzenos ile ittifak kurması</p>
+    </div>
+    <div class="question">
+        <p>13. Osmanlı'nın Balkanlar'daki ilerleyişini durduran savaş hangisidir?</p>
+        <p class="answer">Ankara Savaşı (1402)</p>
+    </div>
+    <div class="question">
+        <p>14. Niğbolu Savaşı (1396) sonucunda hangi gelişme yaşanmıştır?</p>
+        <p class="answer">Haçlı ordusu imha edildi</p>
+    </div>
+    <div class="question">
+        <p>15. Ankara Savaşı (1402) sonrası hangi dönem yaşanmıştır?</p>
+        <p class="answer">Fetret Devri</p>
+    </div>
+    <div class="question">
+        <p>16. Osmanlı'nın ilk deniz savaşı hangi devlete karşı yapılmıştır?</p>
+        <p class="answer">Venedik</p>
+    </div>
+    <div class="question">
+        <p>17. Osmanlı Devleti'nin Balkanlar'da ele geçirdiği ilk büyük şehir hangisidir?</p>
+        <p class="answer">Edirne</p>
+    </div>
+    <div class="question">
+        <p>18. Osmanlı tarihinde ilk büyük Haçlı Seferi olarak kabul edilen savaş hangisidir?</p>
+        <p class="answer">Niğbolu Savaşı</p>
+    </div>
+    <div class="question">
+        <p>19. Osmanlı Devleti'nin Anadolu'da ele geçirdiği ilk beylik hangisidir?</p>
+        <p class="answer">Karesi Beyliği</p>
+    </div>
+    <div class="question">
+        <p>20. Osmanlı ordusunda ilk düzenli birlikler hangi padişah döneminde kurulmuştur?</p>
+        <p class="answer">I. Murad</p>
+    </div>
+
+    <h2>3. Ünite: Merkeziyetçi Devletin Doğuşu ve Çöküşü</h2>
+    <div class="question">
+        <p>21. Ankara Savaşı'nın (1402) Osmanlı Devleti'ne etkileri nelerdir?</p>
+        <p class="answer">Beylikler yeniden canlandı ve Fetret Devri (1402-1413) başladı.</p>
+    </div>
+    <div class="question">
+        <p>22. Fetret Devri'ni sona erdiren padişah kimdir?</p>
+        <p class="answer">I. Mehmed</p>
+    </div>
+    <div class="question">
+        <p>23. Şeyh Bedreddin İsyanı hangi padişah döneminde çıkmıştır?</p>
+        <p class="answer">I. Mehmed</p>
+    </div>
+    <div class="question">
+        <p>24. Aşağıdakilerden hangisi Fetret Devri'nde taht mücadelesi veren şehzadelerden biri değildir?</p>
+        <p class="answer">Orhan Bey</p>
+    </div>
+    <div class="question">
+        <p>25. Edirne-Segedin Antlaşması (1444) hangi padişah döneminde imzalanmıştır?</p>
+        <p class="answer">II. Murad</p>
+    </div>
+    <div class="question">
+        <p>26. Osmanlı Devleti'nde ilk divan teşkilatını kim kurmuştur?</p>
+        <p class="answer">Orhan Bey</p>
+    </div>
+    <div class="question">
+        <p>27. Osmanlı Devleti'nde ilk düzenli vergi hangi padişah zamanında alınmıştır?</p>
+        <p class="answer">Orhan Bey</p>
+    </div>
+    <div class="question">
+        <p>28. Osmanlı Devleti'nde ilk vakıf teşkilatı hangi padişah döneminde kurulmuştur?</p>
+        <p class="answer">Orhan Bey</p>
+    </div>
+    <div class="question">
+        <p>29. Osmanlı Devleti'nde ilk tersane hangi şehirde kurulmuştur?</p>
+        <p class="answer">Gelibolu</p>
+    </div>
+    <div class="question">
+        <p>30. Osmanlı Devleti'nde ilk düzenli posta teşkilatı hangi padişah döneminde kurulmuştur?</p>
+        <p class="answer">I. Murad</p>
+    </div>
+
+    <h2>4. Ünite: Uzlaşmacı Siyasetten Fetih Siyasetine</h2>
+    <div class="question">
+        <p>31. II. Murad döneminde Haçlılara karşı kazanılan en önemli zafer hangisidir?</p>
+        <p class="answer">Varna Savaşı (1444)</p>
+    </div>
+    <div class="question">
+        <p>32. II. Kosova Savaşı'nın (1448) önemi nedir?</p>
+        <p class="answer">Osmanlı'nın Balkanlar'daki egemenliği kesinleşti.</p>
+    </div>
+    <div class="question">
+        <p>33. II. Murad'ın tahttan çekilme nedenlerinden biri nedir?</p>
+        <p class="answer">Oğlu lehine tahttan çekilmeye zorlandı.</p>
+    </div>
+    <div class="question">
+        <p>34. Varna Savaşı'nın (1444) sonucunda hangi ülke Osmanlı'ya vergi ödemeyi kabul etmiştir?</p>
+        <p class="answer">Eflak</p>
+    </div>
+    <div class="question">
+        <p>35. Osmanlı'nın Balkanlar'daki egemenliğini kesinleştiren savaş hangisidir?</p>
+        <p class="answer">II. Kosova Savaşı (1448)</p>
+    </div>
+    <div class="question">
+        <p>36. İstanbul'u fethetmek için yapılan hazırlıklardan biri değildir?</p>
+        <p class="answer">Venedik ile ittifak yapılması</p>
+    </div>
+    <div class="question">
+        <p>37. Osmanlı Devleti'nde ilk kapitülasyonlar hangi padişah döneminde verilmiştir?</p>
+        <p class="answer">Fatih Sultan Mehmed</p>
+    </div>
+    <div class="question">
+        <p>38. Osmanlı Devleti'nde ilk düzenli maliye teşkilatı hangi padişah döneminde kurulmuştur?</p>
+        <p class="answer">II. Mehmed</p>
+    </div>
+    <div class="question">
+        <p>39. Osmanlı'da ilk düzenli ordu hangi padişah döneminde kurulmuştur?</p>
+        <p class="answer">I. Murad</p>
+    </div>
+    <div class="question">
+        <p>40. Osmanlı Devleti'nde ilk defa sadrazamlık makamı hangi padişah döneminde oluşturulmuştur?</p>
+        <p class="answer">I. Murad</p>
+    </div>
+
+    <h2>5. Ünite: Osmanlı İmparatorluğu'nun Teşekkülü</h2>
+    <div class="question">
+        <p>41. İstanbul'un fethi (1453) için yapılan hazırlıklardan biri değildir?</p>
+        <p class="answer">Haçlılarla anlaşma yapılması</p>
+    </div>
+    <div class="question">
+        <p>42. Fatih Sultan Mehmed'in İtalya seferinin amacı nedir?</p>
+        <p class="answer">Roma'yı fethetmek</p>
+    </div>
+    <div class="question">
+        <p>43. Otlukbeli Savaşı (1473) kimler arasında yapılmıştır?</p>
+        <p class="answer">Fatih Sultan Mehmed ile Akkoyunlu Hükümdarı Uzun Hasan arasında</p>
+    </div>
+    <div class="question">
+        <p>44. Osmanlı'nın ilk döneminde uygulanan "gaza siyaseti"nin temel amacı nedir?</p>
+        <p class="answer">İslam'ı yaymak</p>
+    </div>
+    <div class="question">
+        <p>45. Aşağıdakilerden hangisi Osmanlı Devleti'ne katılan son beyliktir?</p>
+        <p class="answer">Dulkadiroğulları</p>
+    </div>
+    <div class="question">
+        <p>46. Osmanlı Devleti'nde ilk medrese hangi padişah döneminde açılmıştır?</p>
+        <p class="answer">Orhan Bey</p>
+    </div>
+    <div class="question">
+        <p>47. Osmanlı Devleti'nde ilk kanunnameyi hazırlayan padişah kimdir?</p>
+        <p class="answer">Fatih Sultan Mehmed</p>
+    </div>
+    <div class="question">
+        <p>48. Osmanlı Devleti'nde ilk matbaa hangi padişah zamanında kurulmuştur?</p>
+        <p class="answer">III. Ahmed</p>
+    </div>
+    <div class="question">
+        <p>49. Osmanlı Devleti'nde ilk saray hangi padişah döneminde inşa edilmiştir?</p>
+        <p class="answer">I. Murad</p>
+    </div>
+    <div class="question">
+        <p>50. Osmanlı Devleti'nde ilk Osmanlı altını hangi padişah döneminde basılmıştır?</p>
+        <p class="answer">Fatih Sultan Mehmed</p>
+    </div>
+    <div class="question">
+        <p>51. Osmanlı Devleti'nde ilk Osmanlı altını hangi padişah döneminde basılmıştır? (Tekrarlanmış soru)</p>
+        <p class="answer">Fatih Sultan Mehmed</p>
+    </div>
+    <div class="question">
+        <p>52. Osmanlı Beyliği'nin kuruluşunda aşağıdaki olaylardan hangisi geleneksel olarak kabul edilir?</p>
+        <p class="answer">1299'da Osman Bey'in Bilecik'i fethetmesi</p>
+    </div>
+    <div class="question">
+        <p>53. Orhan Bey döneminde gerçekleşen Pelekanon Savaşı (1329) hangi devlete karşı kazanılmıştır?</p>
+        <p class="answer">Bizans</p>
+    </div>
+    <div class="question">
+        <p>54. Aşağıdakilerden hangisi Osmanlı'nın ilk dönem fetihlerinden biri değildir?</p>
+        <p class="answer">İstanbul'un fethi</p>
+    </div>
+    <div class="question">
+        <p>55. Osmanlı Beyliği'nin siyasi bir teşekkül haline geldiği savaş hangisidir?</p>
+        <p class="answer">Bapheus Savaşı (1302)</p>
+    </div>
+    <div class="question">
+        <p>56. Osmanlı'nın Rumeli'ye geçişini kolaylaştıran olay nedir?</p>
+        <p class="answer">1346'da Orhan Bey'in Bizans İmparatoru VI. Ioannis Kantakuzenos ile ittifak kurması</p>
+    </div>
+    <div class="question">
+        <p>57. I. Kosova Savaşı (1389) ile ilgili hangisi yanlıştır?</p>
+        <p class="answer">Osmanlı'nın yenildiği bir savaş değildir.</p>
+    </div>
+    <div class="question">
+        <p>58. Aşağıdaki savaşlardan hangisi Osmanlı'nın Balkanlar'daki ilerleyişini durdurmuştur?</p>
+        <p class="answer">Ankara Savaşı (1402)</p>
+    </div>
+    <div class="question">
+        <p>59. Niğbolu Savaşı (1396) sonucunda hangi gelişme yaşanmıştır?</p>
+        <p class="answer">Haçlı ordusu imha edildi</p>
+    </div>
+    <div class="question">
+        <p>60. Ankara Savaşı (1402) sonrası yaşanan dönem aşağıdakilerden hangisidir?</p>
+        <p class="answer">Fetret Devri</p>
+    </div>
+    <div class="question">
+        <p>61. Aşağıdakilerden hangisi I. Bayezid (Yıldırım) dönemi gelişmelerinden değildir?</p>
+        <p class="answer">İstanbul'un fethi</p>
+    </div>
+    <div class="question">
+        <p>62. Ankara Savaşı'nın (1402) en önemli sonucu nedir?</p>
+        <p class="answer">Osmanlı Devleti'nin Fetret Devri'ne girmesi</p>
+    </div>
+    <div class="question">
+        <p>63. Fetret Devri'ni sona erdiren padişah kimdir?</p>
+        <p class="answer">I. Mehmed</p>
+    </div>
+    <div class="question">
+        <p>64. Şeyh Bedreddin İsyanı hangi dönemde çıkmıştır?</p>
+        <p class="answer">I. Mehmed</p>
+    </div>
+    <div class="question">
+        <p>65. Aşağıdakilerden hangisi Fetret Devri'nde taht mücadelesi veren şehzadelerden biri değildir?</p>
+        <p class="answer">Orhan Bey</p>
+    </div>
+    <div class="question">
+        <p>66. II. Murad döneminde Haçlılara karşı kazanılan en önemli zafer hangisidir?</p>
+        <p class="answer">Varna Savaşı (1444)</p>
+    </div>
+    <div class="question">
+        <p>67. Edirne-Segedin Antlaşması (1444) hangi padişah döneminde imzalanmıştır?</p>
+        <p class="answer">II. Murad</p>
+    </div>
+    <div class="question">
+        <p>68. Aşağıdakilerden hangisi II. Murad'ın tahttan çekilme nedenlerinden biridir?</p>
+        <p class="answer">Oğlu lehine tahttan çekilmeye zorlandı.</p>
+    </div>
+    <div class="question">
+        <p>69. Varna Savaşı'nın (1444) sonucunda hangi ülke Osmanlı'ya vergi ödemeyi kabul etmiştir?</p>
+        <p class="answer">Eflak</p>
+    </div>
+    <div class="question">
+        <p>70. II. Kosova Savaşı (1448) ile ilgili hangisi doğrudur?</p>
+        <p class="answer">Osmanlı'nın Balkanlar'daki egemenliği kesinleşti.</p>
+    </div>
+    <div class="question">
+        <p>71. Fatih Sultan Mehmed'in İstanbul'u fethetmek için yaptığı hazırlıklar arasında hangisi yoktur?</p>
+        <p class="answer">Haçlılarla ittifak yapılması</p>
+    </div>
+    <div class="question">
+        <p>72. İstanbul'un fethi (1453) sonrası gerçekleşen gelişme nedir?</p>
+        <p class="answer">Osmanlı Devleti'nin imparatorluk statüsü kazandı.</p>
+    </div>
+    <div class="question">
+        <p>73. Otlukbeli Savaşı (1473) kimlere karşı yapılmıştır?</p>
+        <p class="answer">Akkoyunlu Hükümdarı Uzun Hasan'a karşı</p>
+    </div>
+    <div class="question">
+        <p>74. Fatih Sultan Mehmed'in İtalya seferinin amacı nedir?</p>
+        <p class="answer">Roma'yı fethetmek</p>
+    </div>
+    <div class="question">
+        <p>75. Aşağıdakilerden hangisi Fatih dönemi gelişmelerinden değildir?</p>
+        <p class="answer">Matbaanın kurulması</p>
+    </div>
+    <div class="question">
+        <p>76. Osmanlı'nın ilk döneminde uygulanan "gaza siyaseti"nin temel amacı nedir?</p>
+        <p class="answer">İslam'ı yaymak</p>
+    </div>
+    <div class="question">
+        <p>77. Aşağıdaki beyliklerden hangisi Osmanlı'ya katılan son beyliktir?</p>
+        <p class="answer">Dulkadiroğulları</p>
+    </div>
+    <div class="question">
+        <p>78. Osmanlı'nın Rumeli'deki ilk toprağı neresidir?</p>
+        <p class="answer">Çimpe Kalesi</p>
+    </div>
+    <div class="question">
+        <p>79. Osmanlı Devleti'nin kuruluş döneminde en çok hangi devletle mücadele etmiştir?</p>
+        <p class="answer">Bizans</p>
+    </div>
+    <div class="question">
+        <p>80. Aşağıdaki padişah-eşleştirme hangisinde yanlış verilmiştir?</p>
+        <p class="answer">[Soruda seçenekler eksik, doğru cevap belirlenemedi]</p>
+    </div>
+    <div class="question">
+        <p>81. Malazgirt Savaşı'nın (1071) Osmanlı Devleti'nin kuruluşundaki rolü nedir?</p>
+        <p class="answer">Anadolu'nun Türkleşmesini sağlayarak Osmanlı'nın kuruluşuna zemin hazırladı.</p>
+    </div>
+    <div class="question">
+        <p>82. Osmanlı Beyliği'nin kuruluşu geleneksel olarak hangi olayla tarihlendirilir?</p>
+        <p class="answer">1299'da Osman Bey'in Bilecik'i fethetmesi</p>
+    </div>
+    <div class="question">
+        <p>83. Orhan Bey döneminde fethedilen ve beyliğin başkenti yapılan şehir hangisidir?</p>
+        <p class="answer">Bursa</p>
+    </div>
+    <div class="question">
+        <p>84. Osmanlı'nın Rumeli'ye geçişini kolaylaştıran olay nedir?</p>
+        <p class="answer">1346'da Orhan Bey'in Bizans İmparatoru VI. Ioannis Kantakuzenos ile ittifak kurması</p>
+    </div>
+    <div class="question">
+        <p>85. I. Kosova Savaşı'nın (1389) önemi nedir?</p>
+        <p class="answer">Balkanlar'da Osmanlı hakimiyetini pekiştirdi.</p>
+    </div>
+    <div class="question">
+        <p>86. Ankara Savaşı'nın (1402) Osmanlı Devleti'ne etkileri nelerdir?</p>
+        <p class="answer">Timur karşısında alınan yenilgi, Osmanlı'nın merkeziyetçi yapısını çökertti.</p>
+    </div>
+    <div class="question">
+        <p>87. Fetret Devri'ni sona erdiren olay nedir?</p>
+        <p class="answer">1413'te Çamurlu Savaşı'nda I. Mehmed'in kardeşi Musa Çelebi'yi yenmesiyle devlet tekrar birleşti.</p>
+    </div>
+    <div class="question">
+        <p>88. II. Murad'ın Varna Savaşı'ndaki (1444) başarısının sebebi nedir?</p>
+        <p class="answer">Haçlı ordusunun Macar Kralı Ladislas'ın ölümüyle dağılması ve Osmanlı'nın disiplinli ordusu sayesinde zafer kazanıldı.</p>
+    </div>
+    <div class="question">
+        <p>89. II. Kosova Savaşı'nın (1448) önemi nedir?</p>
+        <p class="answer">Hunyadi János'un yenilgisiyle Haçlı tehdidi kesin olarak sona erdi ve Osmanlı'nın Balkanlar'daki egemenliği kabul edildi.</p>
+    </div>
+    <div class="question">
+        <p>90. İstanbul'un fethi (1453) için yapılan hazırlıklar nelerdir?</p>
+        <p class="answer">Rumeli Hisarı'nın inşası (1452), Urban adlı mühendisin dev topları, gemilerin karadan yürütülmesi</p>
+    </div>
+    <div class="question">
+        <p>91. Fatih Sultan Mehmed'in İtalya seferinin amacı nedir?</p>
+        <p class="answer">1480'de Otranto'nun fethiyle Roma'yı ele geçirerek Avrupa'da İslam hakimiyetini yaymayı hedefledi.</p>
+    </div>
+    <div class="question">
+        <p>92. Şeyh Bedreddin İsyanı'nın (1416) Osmanlı Devleti için önemi nedir?</p>
+        <p class="answer">Merkezi otoriteye karşı çıkan bu isyan, dini ve sosyal eşitlik talepleriyle başladı.</p>
+    </div>
+    <div class="question">
+        <p>93. Otlukbeli Savaşı (1473) kimler arasında yapılmıştır?</p>
+        <p class="answer">Fatih Sultan Mehmed ile Akkoyunlu Hükümdarı Uzun Hasan arasında</p>
+    </div>
+    <div class="question">
+        <p>94. 1075-1080 yılları arasında kurulan Anadolu Selçuklu Devleti'nin merkezi neresidir?</p>
+        <p class="answer">İznik</p>
+    </div>
+    <div class="question">
+        <p>95. 1240 yılında II. Giyaseddin Keyhüsrev'e karşı ayaklanan Türkmenlerin lideri kimdir?</p>
+        <p class="answer">Baba İlyas Horasani</p>
+    </div>
+    <div class="question">
+        <p>96. 1243 yılında II. Giyaseddin Keyhüsrev'in yenildiği ve Selçuklu Devleti'nin Moğol vasali olduğu savaş hangisidir?</p>
+        <p class="answer">Kösedağ Savaşı</p>
+    </div>
+    <div class="question">
+        <p>97. 1288 yılında Germiyanlılar ve Uç Türkmenlerinin dağıtılmasıyla ortaya çıkan beylikler hangileridir?</p>
+        <p class="answer">Aydın, Karesi, Saruhan ve Menteşe beylikleri</p>
+    </div>
+    <div class="question">
+        <p>98. 1298 yılında Moğol kumandanı Sülemiş'in isyanı, Türkmenlerin hangi yöne baskıyı artırmasına neden olmuştur?</p>
+        <p class="answer">Bizans</p>
+    </div>
+    <div class="question">
+        <p>99. Osmanlı Devleti'nin ortaya çıkışını kolaylaştıran ortam nasıl şekillenmiştir?</p>
+        <p class="answer">Moğol istilası ve Bizans'ın zayıflaması ortamı hazırladı.</p>
+    </div>
+    <div class="question">
+        <p>100. Moğol ilerlemesiyle Anadolu'ya gelen ve Osmanlı'nın ataları olarak kabul edilen Türkmenlerin lideri kimdir?</p>
+        <p class="answer">Ertuğrul Bey</p>
+    </div>
+
+</body>
+</html>
